@@ -10,3 +10,4 @@ def convert_currency(amount, source_currency, target_currency, conversion_rates)
 end
 
 convert_currency(100, :usd, :jpy, conversion_rates)
+
