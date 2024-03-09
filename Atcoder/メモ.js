@@ -17,3 +17,6 @@ console.log(subStr); // "bcdef"
 let str = "abcdefg";
 let subStr = str.substring(1, str.length - 1); // 1番目のインデックスから始まり、最後のインデックスの1つ前まで取得します。
 console.log(subStr); // "bcdef"
+
+## 差の絶対値
+Math.abs(1 - 5);
