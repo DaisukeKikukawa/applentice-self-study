@@ -20,3 +20,8 @@ console.log(subStr); // "bcdef"
 
 ## 差の絶対値
 Math.abs(1 - 5);
+
+## 配列の最大値と最小値
+スプレッド構文を使う
+Math.max(...ary);
+Math.min(...ary);
